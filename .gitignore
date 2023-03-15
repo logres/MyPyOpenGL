@@ -1,2 +1,2 @@
 # exclude venv dir
-venv
+/venv/
